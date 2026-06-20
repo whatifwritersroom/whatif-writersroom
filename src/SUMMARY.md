@@ -2,8 +2,8 @@
 
 [Welcome](index.md)
 
-# Volume 1: Dune
-- [Chapter 1: Hunter S. Thompson](dune/ch1-thompson.md)
+# Dune - Frank Herbert
+- [Gom Jabbar scene: Hunter S. Thompson](dune/gomjabber-thompson.md)
 
 ---
 [Disclaimer](disclaimer.md)
