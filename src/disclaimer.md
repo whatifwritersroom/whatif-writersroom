@@ -6,15 +6,15 @@
 
 ## Copyright & Attribution
 
-All original works referenced, parodied, or transformed on this site remain the exclusive property of their respective **authors, estates, publishers, and copyright holders**. We make no claim of ownership over any source material, characters, settings, or storylines. All trademarks, registered trademarks, and copyrighted content belong to their respective owners.
+All original works referenced, parodied, or transformed on this site remain the exclusive property of their respective authors, estates, publishers, and copyright holders. We make no claim of ownership over any source material, characters, settings, or storylines. All trademarks, registered trademarks, and copyrighted content belong to their respective owners.
 
-Many of the works parodied on this site are by authors who have passed away. We extend our respect to their **estates and literary heirs**, who maintain and protect their intellectual property legacy.
+Many of the works parodied on this site are by authors who have passed away. We extend our respect to their estates and literary heirs, who maintain and protect their intellectual property legacy.
 
 ---
 
 ## Nature of This Work
 
-The content presented here is **transformative parody** created for:
+The content presented here is transformative parody created for:
 
 - Educational and literary analysis purposes
 - Parody and satire (protected under fair use doctrine)
@@ -27,7 +27,7 @@ Our work applies the distinctive literary voices of various authors to existing 
 
 ## Parody Voices & Stylistic Homage
 
-This project emulates the **writing styles and narrative voices** of various authors, both living and deceased. These stylistic parodies:
+This project emulates the writing styles and narrative voices of various authors, both living and deceased. These stylistic parodies:
 
 - Are transformative creative expressions, not attempts to impersonate or speak on behalf of any author
 - Comment on and celebrate the distinctive literary techniques of the voices being emulated
@@ -40,7 +40,7 @@ No author whose voice is emulated has endorsed, sponsored, or approved this proj
 
 ## No Commercial Intent
 
-This site generates **no revenue**. No advertising is displayed. No products or services are sold. We accept no donations in connection with this project. This work is offered freely to the public with no expectation of financial gain.
+This site generates **no revenue**. No advertising is displayed. No products or services are sold. We accept no donations, patreon, coffee or any other goods or services in connection with this project. This site will not contain monetization or advertisements of any kind. This work is offered freely to the public with no expectation of financial gain.
 
 ---
 
@@ -58,7 +58,7 @@ This project believes its use of copyrighted material constitutes "fair use" as 
 
 ## Takedown Requests
 
-We respect the rights of authors, **estates**, and their representatives. If you are a rights holder, estate representative, or authorized agent and believe this project infringes upon copyright in a manner not protected by fair use, contact us at:
+We respect the rights of authors, estates, and their representatives. If you are a rights holder, estate representative, or authorized agent and believe this project infringes upon copyright in a manner not protected by fair use, contact us at:
 
 **whatif.writersroom.editor@gmail.com**
 
@@ -68,7 +68,7 @@ We will review all good-faith requests promptly and remove content if legally re
 
 ## Disclaimer of Endorsement
 
-No author, **estate**, publisher, or rights holder referenced on this site has endorsed, sponsored, or approved this project. Any opinions expressed in parodied works are those of the fictional narrators, not the original authors, their estates, or this project's creators.
+No author, estate, publisher, or rights holder referenced on this site has endorsed, sponsored, or approved this project. Any opinions expressed in parodied works are those of the fictional narrators, not the original authors, their estates, or this project's creators.
 
 ---
 

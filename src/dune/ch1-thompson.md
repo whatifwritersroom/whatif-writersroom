@@ -1,5 +1,4 @@
 # DUNE: Chapter One
-## As Told by Hunter S. Thompson
 
 ---
 
