@@ -1,0 +1,12 @@
+[book]
+authors = ["WhatIf Editor"]
+language = "en"
+multilingual = false
+src = "src"
+title = "WhatIf Writer's Room"
+
+[output.html]
+# Forces the site to stay in Coal (Dark Mode) on Load
+default-theme = "coal"
+# Keeps search bar active
+search = true
