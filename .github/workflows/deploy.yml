@@ -2,25 +2,29 @@ name: Deploy mdBook to Pages
 on:
   push:
     branches: ["main"]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 jobs:
   deploy:
+    environment: 
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v4
-      # FIX: Updated to v4 of the mdBook action runner for Node 24 support
       - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v4
+        uses: peaceiris/actions-mdbook@v1
         with:
           mdbook-version: 'latest'
       - name: Build Site
         run: mdbook build
-      # FIX: Updated to v4 of the artifact uploader to system compatibility
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./book
       - name: Deploy to GitHub Pages
