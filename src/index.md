@@ -2,7 +2,9 @@
 
 This is a non-commercial sandbox dedicated to humorous stylistic experiments and literary parodies.
 
-Imagine a writer's room, full of legendary authors, all arguing about how to rewrite very famous works, in some cases, their own works. They're harranguing each other and generally some good natured banter on their craft. The humor is in the parody, their banter, their deprecation of each other and themselves, and recognizing each other's particular take on writing and how they do it. And of course, the source material, maligned and bent to each author's strengths and ... proclivities. And naturally, they can never rewrite their own works. And some go in a corner and sulk when they see how their pristine work has been corrupted. Hope you enjoy the ride!
+Imagine a writer's room full of legendary authors, all arguing about how to rewrite the most famous works ever put to paper. Some of those works belong to the authors in the room — which is half the fun, because the one ironclad rule is that nobody rewrites their own. You don't get to parody yourself. But the colleague three seats down? Fair game. So Hemingway might find his spare little sentences ballooned into gothic excess by someone who's never met a subordinate clause he didn't love, while their author sits right there, watching it happen, slowly turning a dangerous shade of red.
+
+The humor's in all of it: the parody itself, the banter between rewrites, the way each author needles the others and deprecates themselves, and the slow dawning recognition of exactly how each one thinks about the craft. The source material doesn't escape either — it gets maligned, stretched, and bent to every author's particular strengths and… proclivities. And when the dust settles, a few of them wander off to a corner to sulk, nursing wounded pride over what's been done to their pristine prose. Hope you enjoy the ride.
 
 ---
 ### Legal Disclaimer
