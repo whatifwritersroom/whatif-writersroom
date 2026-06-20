@@ -4,4 +4,4 @@ This is a non-commercial sandbox dedicated to humorous stylistic experiments and
 
 ---
 ### Legal Disclaimer
-All original characters, settings, and plots parodied on this site are the property of their respective creators and copyright holders. This transformative fan-work is hosted purely for non-profit entertainment. For takedown requests, contact us at whatif.writersroom.editor@gmail.com.
+The full text of our legal disclaimer can be found <a href="https://www.whatif-writersroom.com/disclaimer.html">here</a>.
