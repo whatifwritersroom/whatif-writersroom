@@ -1,7 +1,6 @@
 [book]
 authors = ["WhatIf Editor"]
 language = "en"
-multilingual = false
 src = "src"
 title = "WhatIf Writer's Room"
 
