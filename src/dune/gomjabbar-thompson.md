@@ -4,7 +4,7 @@
 
 ---
 
-`[HST]` *Okay. Okay okay okay. The brief says "boy in a bed, old hag with a poison box, tests him to see if he's people or livestock." Fine. FINE. But whoever wrote it the first time did it SOBER, and you can smell it on the page. Watch this. Hand me the brown bottle and don't talk to me until the witch shows up.*
+> [HST] *Okay. Okay okay okay. The brief says "boy in a bed, old hag with a poison box, tests him to see if he's people or livestock." Fine. FINE. But whoever wrote it the first time did it SOBER, and you can smell it on the page. Watch this. Hand me the brown bottle and don't talk to me until the witch shows up.*
 
 The night came down on the castle like a wet wool blanket soaked in someone else's bad decisions, and the boy lay in the dark running the oldest scam in the book — the Fake Sleep, the possum gambit, the slow theatrical breathing of a kid who knows damn well there are two predators in the room and one of them is his own mother.
 
