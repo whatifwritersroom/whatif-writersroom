@@ -11,14 +11,16 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v4
+      # FIX: Updated to v4 of the mdBook action runner for Node 24 support
       - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
+        uses: peaceiris/actions-mdbook@v4
         with:
           mdbook-version: 'latest'
       - name: Build Site
         run: mdbook build
+      # FIX: Updated to v4 of the artifact uploader to system compatibility
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./book
       - name: Deploy to GitHub Pages
