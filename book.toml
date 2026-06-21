@@ -9,3 +9,5 @@ title = "WhatIf Writer's Room"
 default-theme = "coal"
 # Keeps search bar active
 search = true
+# CSS tweaks
+additional-css = ["theme/custom.css"]

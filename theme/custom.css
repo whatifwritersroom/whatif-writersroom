@@ -1,0 +1,8 @@
+.sidebar .chapter-item strong[aria-hidden="true"] {
+   display: none;
+}
+
+/* add a bullet before each linked chapter title */
+.sidebar .chapter-item > a::before {
+   content: "•&nbsp;&nbsp;";
+}
