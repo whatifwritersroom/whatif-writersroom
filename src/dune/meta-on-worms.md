@@ -1,6 +1,6 @@
 # The Room: On Worms
 
-*The writers' room. A long table, too many chairs, a coffee urn that no one will admit to having broken. Pages are being passed hand to hand. There is a smell of cinnamon that no one can account for.*
+Someone has left a glass decanter along with a series of mismatched glassware at the corner of the marble bar. The fire is casting more light than before. More wood? Bigger fireplace? Less in the way? It doesn't matter. Several chairs have been arranged in close quarters, unoccupied, nearby. There is a dampness to the air, like fresh rain, though the floor is dry. Thing wisps of smoke wander lazily about.
 
 ---
 
@@ -23,8 +23,6 @@
 **THOMPSON:** Something arranges it. He says that about everything. Howard thinks something arranges the cutlery.
 
 **LOVECRAFT:** *(quietly)* Something does.
-
-*A pause. Everyone looks at the coffee urn.*
 
 **WODEHOUSE:** I thought it was rather good, personally. Bit thick on the dread, but I once spent a whole novel on a man trying to return a cow creamer, so I'm in no position to throw stones at pacing.
 
@@ -60,10 +58,6 @@
 
 **LOVECRAFT:** *(retreating to the corner with his pages)* It was never going to eat him. That was never the horror. The horror is that the *natives have a liturgy.*
 
-**ATTENBOROUGH:** *(rolling up his sleeves, kindly)* Yes, Howard. It's called a rite of passage. They're rather touching, actually. Now — lower your voices, everyone, and crouch a little. Dawn, on the open sand...
+**ATTENBOROUGH:** *(rolling up his sleeves, kindly)* Yes, Howard. It's called a rite of passage. They're rather touching, actually. 
 
 *He begins. LOVECRAFT watches from behind a chair he has positioned, for reasons of his own, between himself and the window.*
-
----
-
-*→ Next: the same scene, narrated by David Attenborough.*

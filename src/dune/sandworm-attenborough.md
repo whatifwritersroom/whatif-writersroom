@@ -1,7 +1,5 @@
 # Sandworm Ride: David Attenborough
 
-> *Hello. Yes. Marvellous. Now — I've had a look at what the previous gentleman submitted, and I think the trouble is rather a simple one. He's frightened of it. You mustn't be frightened of it. It's an animal. A very large animal, admittedly, doing a very large thing — but an animal nonetheless, going about its day with no interest in us whatsoever. That's the secret, you see. It isn't a horror. It's a Tuesday. Lower your voice. Crouch a little. Off we go.*
-
 Dawn, on the open sand. The heat has not yet arrived, and in the brief cool the desert holds its breath.
 
 > *We must whisper now. Not for fear — the animal cannot hear us — but out of respect. One always whispers near something this old.*
@@ -31,5 +29,3 @@ On the dunes behind, his people have gathered to watch. They do not interfere. T
 > *To them, this is a rite of passage — the single most important morning of a young life. The herd watches the juvenile and sees, perhaps, a god in the making. Or perhaps the most embarrassing thing they have ever witnessed. Nature, so often, declines to tell us which — and I have learned, over a very long life, not to insist that she choose.*
 
 The boy turns the great animal toward the open waste, and the watchers raise a cry — of triumph, of welcome, of something older than either. And the giant, indifferent to all of it, carries its small passenger out across the sand and into the shimmering distance, where the dunes blur into heat and the eye, at last, loses them both.
-
-> *Extraordinary. Truly. ...And do tell the previous gentleman he can come out from behind the dune now. The animal has gone. It was never going to eat him. It hardly knew he was there.*
