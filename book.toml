@@ -7,7 +7,9 @@ title = "WhatIf Writer's Room"
 [output.html]
 # Forces the site to stay in Coal (Dark Mode) on Load
 default-theme = "coal"
-# Keeps search bar active
-search = true
 # CSS tweaks
 additional-css = ["theme/custom.css"]
+
+[output.html.search]
+# Keeps search bar active
+enable = true
