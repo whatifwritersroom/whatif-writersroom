@@ -1,8 +1,7 @@
 .sidebar .chapter-item strong[aria-hidden="true"] {
-   display: none;
+   font-size: 0;
 }
-
-/* add a bullet before each linked chapter title */
-.sidebar .chapter-item > a::before {
-   content: "•&nbsp;&nbsp;";
+.sidebar .chapter-item strong[aria-hidden="true"]::after {
+  content: "•";
+  font-size: 1rem;
 }
